@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+openai_mobile_review_embeddings/
+openai_mobile_review_embeddings*.zip
+openai_mobile_review_embeddings*.rar
