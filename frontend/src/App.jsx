@@ -189,7 +189,7 @@ export default function App() {
           <div className="logo">PR</div>
           <div className="brandText">
             <div className="title">Phone Reviews Assistant</div>
-            <div className="subtitle">Chatbot grounded in real review snippets (RAG)</div>
+            <div className="subtitle">Chatbot grounded in real review</div>
           </div>
         </div>
 
