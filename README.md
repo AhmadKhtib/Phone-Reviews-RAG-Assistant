@@ -6,6 +6,10 @@ A **Retrieval-Augmented Generation (RAG)** application that answers smartphone-r
 
 The system embeds a cleaned CSV dataset of mobile reviews into a vector database and generates **grounded, explainable answers** through a modern chat interface — without relying on external product APIs or speculative knowledge.
 
+## Live Demo
+
+🌐 **Web Application:**  
+https://intelligent-mobile-review.netlify.app/
 ---
 
 ## Overview
