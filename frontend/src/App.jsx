@@ -50,7 +50,7 @@ export default function App() {
       role: "assistant",
       time: nowTime(),
       text:
-        "Ask me anything about phone reviews.\n\nExamples:\n• Galaxy S24 battery issues?\n• Best phone under $500 for battery?\n• iPhone 15 camera complaints?",
+        "Ask me anything about phone reviews.",
       sources: [],
     },
   ]);
@@ -80,7 +80,7 @@ export default function App() {
         role: "assistant",
         time: nowTime(),
         text:
-          "Ask me anything about phone reviews.\n\nExamples:\n• Galaxy S24 battery issues?\n• Best phone under $500 for battery?\n• iPhone 15 camera complaints?",
+          "Ask me anything about phone reviews. ",
         sources: [],
       },
     ]);
@@ -212,7 +212,7 @@ export default function App() {
             </div>
 
             <div className="hint">
-              Enter to send • Shift+Enter new line • Use constraints like “under $500”
+               • Use constraints like : under $500
             </div>
           </div>
 
